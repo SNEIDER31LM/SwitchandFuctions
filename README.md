@@ -1,7 +1,7 @@
 <img src="https://github.com/SNEIDER31LM/SwitchandFuctions/assets/169932054/9f1b9456-818c-4289-acd1-b3b4e573d86d">
 
 # FUCTIONS SWITCH
-<img src="https://github.com/SNEIDER31LM/SwitchandFuctions/assets/169932581/6682569f-b041-44fc-946c-28574c36c7f9">
+
 Welcome to our instructional guide for inference and realtime vision [DNN library](#api-reference) for **[NVIDIA Jetson](https://developer.nvidia.com/embedded-computing)** devices.  This project uses **[TensorRT](https://developer.nvidia.com/tensorrt)** to run optimized networks on GPUs from C++ or Python, and PyTorch for training models.
 
 Supported DNN vision primitives include [`imageNet`](docs/imagenet-console-2.md) for image classification, [`detectNet`](docs/detectnet-console-2.md) for object detection, [`segNet`](docs/segnet-console-2.md) for semantic segmentation, [`poseNet`](docs/posenet.md) for pose estimation, and [`actionNet`](docs/actionnet.md) for action recognition.  Examples are provided for streaming from live camera feeds, making webapps with WebRTC, and support for ROS/ROS2.
