@@ -1,3 +1,4 @@
+<img src="https://github.com/dusty-nv/jetson-inference/raw/master/docs/images/deep-vision-header.jpg" width="100%">
 # FUCTIONS SWITCH
 <img src="https://github.com/SNEIDER31LM/SwitchandFuctions/assets/169932581/6682569f-b041-44fc-946c-28574c36c7f9">
 Welcome to our instructional guide for inference and realtime vision [DNN library](#api-reference) for **[NVIDIA Jetson](https://developer.nvidia.com/embedded-computing)** devices.  This project uses **[TensorRT](https://developer.nvidia.com/tensorrt)** to run optimized networks on GPUs from C++ or Python, and PyTorch for training models.
