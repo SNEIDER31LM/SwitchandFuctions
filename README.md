@@ -3,6 +3,7 @@
 # FUCTIONS SWITCH
 
 Welcome to our project on the Switch function. In this repository we will explain what this program is for and its functionality.
+uses the Scanner class to read user input from the console. The user is presented with a menu with three options, each of which executes a specific block of code based on the selected option.
 
 # Program functionality
 
