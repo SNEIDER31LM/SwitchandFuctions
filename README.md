@@ -4,6 +4,8 @@
 
 Welcome to our project on the Switch function. In this repository we will explain what this program is for and its functionality.
 
+# Program functionality
+
 This program allows the user to select between several options (A, B, C), perform specific actions depending on the chosen option and display the corresponding results.
 
 <img src="https://github.com/dusty-nv/jetson-inference/raw/master/docs/images/deep-vision-primitives.jpg">
