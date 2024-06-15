@@ -4,7 +4,7 @@
 
 Welcome to our project on the Switch function. In this repository we will explain what this program is for and its functionality.
 
-Supported DNN vision primitives include [`imageNet`](docs/imagenet-console-2.md) for image classification, [`detectNet`](docs/detectnet-console-2.md) for object detection, [`segNet`](docs/segnet-console-2.md) for semantic segmentation, [`poseNet`](docs/posenet.md) for pose estimation, and [`actionNet`](docs/actionnet.md) for action recognition.  Examples are provided for streaming from live camera feeds, making webapps with WebRTC, and support for ROS/ROS2.
+This program allows the user to select between several options (A, B, C), perform specific actions depending on the chosen option and display the corresponding results.
 
 <img src="https://github.com/dusty-nv/jetson-inference/raw/master/docs/images/deep-vision-primitives.jpg">
 
